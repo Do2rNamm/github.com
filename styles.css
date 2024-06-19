@@ -55,7 +55,6 @@ h5 {
 }
 .footer .social {
     display: flex;
-    flex-direction: column;
     justify-content: center;
     gap: 20px; /* khoảng cách giữa các icon */
 }
